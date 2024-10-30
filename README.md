@@ -9,8 +9,8 @@
 
 # Movimentos e interacao de personagem:
 - Ficar parado.
-- Pular1.
-- Pular2.
+- Pular1, pula apenas uma vez, clicar uma vez na tela.
+- Pular2, pulo dublo, clicar por 2 segundos.
 
 # Movimetos e interaco de cenario:
 - Passa em loop, finito, final será bater em uma paredona.
@@ -31,4 +31,19 @@
          B: bom 1000 a 1500 pontos
          C: ruim 500 a 1000 pontos
          F: péssimo 0 a 500 pontos
-  
+
+# exemplo cenario:
+![image](https://github.com/user-attachments/assets/3e0a0ee3-c4dd-4630-ad1f-33eae3d48752)
+
+# exemplo personagem: 
+![image](https://github.com/user-attachments/assets/d99c069c-497c-469d-89e3-7df6cbc7b8eb)
+
+# exemplo de obstaculo:
+![image](https://github.com/user-attachments/assets/d9a0717c-b45c-4213-a257-91c4f29a18df)
+
+# exemplo de resultado final tela jogando:
+![image](https://github.com/user-attachments/assets/960cb44f-f78e-4222-a167-748f65c2f45d)
+
+
+
+
